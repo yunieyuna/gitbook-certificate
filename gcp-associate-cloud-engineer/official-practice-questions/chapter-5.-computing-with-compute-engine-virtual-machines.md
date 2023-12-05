@@ -33,7 +33,7 @@ D. Specify a default zone
 
 Answers:
 
-A. You will need to set up billing if it is not already enabled when you start using the con- sole, so option A is the right answer. You may create a project, but you will be able to do this only if billing is enabled. You do not need to create a storage bucket to work with the console. Specifying a default zone is not a one-time task; you may change zones throughout the life of your project.
+A. You will need to set up billing if it is not already enabled when you start using the console, so option A is the right answer. You may create a project, but you will be able to do this only if billing is enabled. You do not need to create a storage bucket to work with the console. Specifying a default zone is not a one-time task; you may change zones throughout the life of your project.
 
 
 
@@ -69,9 +69,7 @@ D. You have not specified a correct memory configuration.
 
 Answers:
 
-B. Different zones may have different machine types available, so you will need to specify a region first and then a zone to determine the set of machine types available. If the machine type does not appear in the list, it is not available in that zone. This makes option B the correct answer. Options A and C are incorrect. Subnets and IP addresses are not related
-
-to the machine types available. Unless you are specifying a custom machine type, you do not specify the amount of memory; that is defined by the machine type, so option D is incorrect.
+B. Different zones may have different machine types available, so you will need to specify a region first and then a zone to determine the set of machine types available. If the machine type does not appear in the list, it is not available in that zone. This makes option B the correct answer. Options A and C are incorrect. Subnets and IP addresses are not related to the machine types available. Unless you are specifying a custom machine type, you do not specify the amount of memory; that is defined by the machine type, so option D is incorrect.
 
 
 
@@ -107,7 +105,7 @@ D. Networking
 
 Answers:
 
-A. The Availability Policy section within the Management tab is where you set preempti- bility, so option A is correct. Identity And API Access is used to control the VM’s access to Google Cloud APIs and which service account is used with the VM. Sole Tenancy is used if you need to run your VMs on physical servers that only run your VMs. Networking is used to set network tags and change the network interface.
+A. The Availability Policy section within the Management tab is where you set preemptibility, so option A is correct. Identity And API Access is used to control the VM’s access to Google Cloud APIs and which service account is used with the VM. Sole Tenancy is used if you need to run your VMs on physical servers that only run your VMs. Networking is used to set network tags and change the network interface.
 
 
 
@@ -147,7 +145,7 @@ C. Block size is not an option in the Additional Disks dialog, so option C is co
 
 
 
-#### 9. You lead a team of cloud engineers who maintain cloud resources for several departments in your company. You’ve noticed a problem with configuration drift. Some machine config- urations are no longer in the same state as they were when created. You can’t find notes or documentation on how the changes were made or why. What practice would you implement to solve this problem?
+#### 9. You lead a team of cloud engineers who maintain cloud resources for several departments in your company. You’ve noticed a problem with configuration drift. Some machine configurations are no longer in the same state as they were when created. You can’t find notes or documentation on how the changes were made or why. What practice would you implement to solve this problem?
 
 A. Have all cloud engineers use only command-line interface in Cloud Shell.
 
@@ -164,7 +162,7 @@ D. Limit privileges so only you can make changes so you will always know when an
 Answers:
 
 B. Using version-controlled scripts is the best approach of the four options. Scripts can\
-be documented with reasons for the changes and they can be run repeatedly on different machines to implement the same change. This reduces the chance of error when manually entering a command. Option A does not help to improve documenting why changes were made. Option C could help improve documentation, but executable scripts are precise and accurate reflections of what was executed. Notes may miss details. Option D is not advis- able. You could become a bottleneck to making changes, changes cannot be made when you are unavailable, and your memory may not be a reliable way to track all configuration changes.
+be documented with reasons for the changes and they can be run repeatedly on different machines to implement the same change. This reduces the chance of error when manually entering a command. Option A does not help to improve documenting why changes were made. Option C could help improve documentation, but executable scripts are precise and accurate reflections of what was executed. Notes may miss details. Option D is not advisable. You could become a bottleneck to making changes, changes cannot be made when you are unavailable, and your memory may not be a reliable way to track all configuration changes.
 
 
 
@@ -259,7 +257,7 @@ B. 10 GB of data is small enough to store on a single disk. By creating an image
 
 
 
-#### 15. The Network tab of the create VM form is where you would perform which of the follow- ing operations?
+#### 15. The Network tab of the create VM form is where you would perform which of the following operations?
 
 A. Set the IP address of the VM
 
@@ -295,7 +293,7 @@ A. The correct option is boot-disk-type, which is option A. The other three opti
 
 
 
-#### 17. Which of the following commands will create a VM with four CPUs that is named web- server-1?
+#### 17. Which of the following commands will create a VM with four CPUs that is named web-server-1?
 
 A. gcloud compute instances create --machine-type=n1-standard-4 web-server-1
 
@@ -345,7 +343,7 @@ D. ipconfig
 
 Answers:
 
-B. SSH is service for connecting to a remote server and logging into a terminal window. Once logged in, you would have access to a command line, so option B is the right answer. FTP is a file transfer protocol and does not allow you to log in and perform system admin- istration tasks. RDP is a protocol used to remotely access Windows servers, not Ubuntu, which is a Linux distribution. ipconfig is a command-line utility for configuring IP stacks on a device and does not allow you to log into a remote server.
+B. SSH is service for connecting to a remote server and logging into a terminal window. Once logged in, you would have access to a command line, so option B is the right answer. FTP is a file transfer protocol and does not allow you to log in and perform system administration tasks. RDP is a protocol used to remotely access Windows servers, not Ubuntu, which is a Linux distribution. ipconfig is a command-line utility for configuring IP stacks on a device and does not allow you to log into a remote server.
 
 
 
