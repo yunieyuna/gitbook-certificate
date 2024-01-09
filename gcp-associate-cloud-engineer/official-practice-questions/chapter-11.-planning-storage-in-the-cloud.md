@@ -1,5 +1,34 @@
 # Chapter 11. Planning Storage in the Cloud
 
+#### Understanding Level:
+
+* O: Understand the whole question
+* △: Not sure about part of the question
+* ×: Don't understand the question
+
+| Question Number | Trial 1 | Trial 2 | Trial 3 |
+| --------------- | ------- | ------- | ------- |
+| 1               |         |         |         |
+| 2               |         |         |         |
+| 3               |         |         |         |
+| 4               |         |         |         |
+| 5               |         |         |         |
+| 6               |         |         |         |
+| 7               |         |         |         |
+| 8               |         |         |         |
+| 9               |         |         |         |
+| 10              |         |         |         |
+| 11              |         |         |         |
+| 12              |         |         |         |
+| 13              |         |         |         |
+| 14              |         |         |         |
+| 15              |         |         |         |
+| 16              |         |         |         |
+| 17              |         |         |         |
+| 18              |         |         |         |
+| 19              |         |         |         |
+| 20              |         |         |         |
+
 #### 1. You are tasked with defining lifecycle configurations on buckets in Cloud Storage. You need to consider all possible options for transitioning from one storage class to another. All of the following transitions are allowed except for one. Which one is that?
 
 A. Nearline to coldline

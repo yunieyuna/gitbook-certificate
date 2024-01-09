@@ -1,5 +1,34 @@
 # Chapter 4. Introduction to Computing in Google Cloud
 
+#### Understanding Level:
+
+* O: Understand the whole question
+* △: Not sure about part of the question
+* ×: Don't understand the question
+
+| Question Number | Trial 1 | Trial 2 | Trial 3 |
+| --------------- | ------- | ------- | ------- |
+| 1               |         |         |         |
+| 2               |         |         |         |
+| 3               |         |         |         |
+| 4               |         |         |         |
+| 5               |         |         |         |
+| 6               |         |         |         |
+| 7               |         |         |         |
+| 8               |         |         |         |
+| 9               |         |         |         |
+| 10              |         |         |         |
+| 11              |         |         |         |
+| 12              |         |         |         |
+| 13              |         |         |         |
+| 14              |         |         |         |
+| 15              |         |         |         |
+| 16              |         |         |         |
+| 17              |         |         |         |
+| 18              |         |         |         |
+| 19              |         |         |         |
+| 20              |         |         |         |
+
 #### 1. You are deploying a Python web application to GCP. The application uses only custom code and basic Python libraries. You expect to have sporadic use of the application for the foreseeable future and want to minimize both the cost of running the application and the DevOps overhead of managing the application. Which computing service is the best option for running the application?
 
 A. Compute Engine

@@ -1,5 +1,34 @@
 # Chapter 15. Networking in the Cloud: DNS, Load Balancing, and IP Addressing
 
+#### Understanding Level:
+
+* O: Understand the whole question
+* △: Not sure about part of the question
+* ×: Don't understand the question
+
+| Question Number | Trial 1 | Trial 2 | Trial 3 |
+| --------------- | ------- | ------- | ------- |
+| 1               |         |         |         |
+| 2               |         |         |         |
+| 3               |         |         |         |
+| 4               |         |         |         |
+| 5               |         |         |         |
+| 6               |         |         |         |
+| 7               |         |         |         |
+| 8               |         |         |         |
+| 9               |         |         |         |
+| 10              |         |         |         |
+| 11              |         |         |         |
+| 12              |         |         |         |
+| 13              |         |         |         |
+| 14              |         |         |         |
+| 15              |         |         |         |
+| 16              |         |         |         |
+| 17              |         |         |         |
+| 18              |         |         |         |
+| 19              |         |         |         |
+| 20              |         |         |         |
+
 #### 1. What record type is used to specify the IPv4 address of a domain?&#x20;
 
 A. AAAA

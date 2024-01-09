@@ -1,5 +1,34 @@
 # Chapter 3. Projects, Service Accounts, and Billing
 
+#### Understanding Level:
+
+* O: Understand the whole question
+* △: Not sure about part of the question
+* ×: Don't understand the question
+
+| Question Number | Trial 1 | Trial 2 | Trial 3 |
+| --------------- | ------- | ------- | ------- |
+| 1               |         |         |         |
+| 2               |         |         |         |
+| 3               |         |         |         |
+| 4               |         |         |         |
+| 5               |         |         |         |
+| 6               |         |         |         |
+| 7               |         |         |         |
+| 8               |         |         |         |
+| 9               |         |         |         |
+| 10              |         |         |         |
+| 11              |         |         |         |
+| 12              |         |         |         |
+| 13              |         |         |         |
+| 14              |         |         |         |
+| 15              |         |         |         |
+| 16              |         |         |         |
+| 17              |         |         |         |
+| 18              |         |         |         |
+| 19              |         |         |         |
+| 20              |         |         |         |
+
 #### 1. You are designing cloud applications for a healthcare provider. The records management application will manage medical information for patients. Access to this data is limited to a small number of employees. The billing department application will have insurance and payment information. Another group of employees will have access billing information. In addition, the billing system will have two components: a private insurance billing system and a government payer billing system. Government regulations require that software used to bill the government must be isolated from other software systems. Which of the follow- ing resource hierarchies would meet these requirements and provide the most flexibility to adapt to changing requirements?
 
 A. One organization, with folders for records management and billing. The billing folder would have private insurer and government payer folders within it. Common constraints would be specified in organization-level policies. Other policies would be defined at the appropriate folder.

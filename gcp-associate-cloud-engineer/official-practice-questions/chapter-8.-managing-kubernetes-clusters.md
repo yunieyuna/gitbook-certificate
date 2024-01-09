@@ -1,5 +1,36 @@
 # Chapter 8. Managing Kubernetes Clusters
 
+#### Understanding Level:
+
+* O: Understand the whole question
+* △: Not sure about part of the question
+* ×: Don't understand the question
+
+| Question Number | Trial 1 | Trial 2 | Trial 3 |
+| --------------- | ------- | ------- | ------- |
+| 1               |         |         |         |
+| 2               |         |         |         |
+| 3               |         |         |         |
+| 4               |         |         |         |
+| 5               |         |         |         |
+| 6               |         |         |         |
+| 7               |         |         |         |
+| 8               |         |         |         |
+| 9               |         |         |         |
+| 10              |         |         |         |
+| 11              |         |         |         |
+| 12              |         |         |         |
+| 13              |         |         |         |
+| 14              |         |         |         |
+| 15              |         |         |         |
+| 16              |         |         |         |
+| 17              |         |         |         |
+| 18              |         |         |         |
+| 19              |         |         |         |
+| 20              |         |         |         |
+
+
+
 #### 1. You are running several microservices in a Kubernetes cluster. You’ve noticed some performance degradation. After reviewing some logs, you begin to think the cluster may be improperly configured, and you open Cloud Console to investigate. How do you see the details of a specific cluster?
 
 A. Type the cluster name into the search bar.
