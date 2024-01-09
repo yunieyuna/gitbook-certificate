@@ -8,26 +8,26 @@
 
 | Question Number | Trial 1 | Trial 2 | Trial 3 |
 | --------------- | ------- | ------- | ------- |
-| 1               |         |         |         |
-| 2               |         |         |         |
-| 3               |         |         |         |
-| 4               |         |         |         |
-| 5               |         |         |         |
-| 6               |         |         |         |
-| 7               |         |         |         |
-| 8               |         |         |         |
-| 9               |         |         |         |
-| 10              |         |         |         |
-| 11              |         |         |         |
-| 12              |         |         |         |
-| 13              |         |         |         |
-| 14              |         |         |         |
-| 15              |         |         |         |
-| 16              |         |         |         |
-| 17              |         |         |         |
-| 18              |         |         |         |
-| 19              |         |         |         |
-| 20              |         |         |         |
+| 1               | ×       |         |         |
+| 2               | ×       |         |         |
+| 3               | ×       |         |         |
+| 4               | ×       |         |         |
+| 5               | ×       |         |         |
+| 6               | ×       |         |         |
+| 7               | △       |         |         |
+| 8               | O       |         |         |
+| 9               | ×       |         |         |
+| 10              | ×       |         |         |
+| 11              | ×       |         |         |
+| 12              | ×       |         |         |
+| 13              | O       |         |         |
+| 14              | ×       |         |         |
+| 15              | ×       |         |         |
+| 16              | ×       |         |         |
+| 17              | ×       |         |         |
+| 18              | ×       |         |         |
+| 19              | ×       |         |         |
+| 20              | ×       |         |         |
 
 #### 1. A new engineer is asking for clarification about when it is best to use Kubernetes and when to use instance groups. You point out that Kubernetes uses instance groups. What purpose do instance groups play in a Kubernetes cluster?
 
@@ -43,7 +43,7 @@ D. They create alerts and notification channels.
 
 Answers:
 
-C. Kubernetes creates instance groups as part of the process of creating a cluster, which makes option C the correct answer. Stackdriver, not instance groups, is used to monitor the health of nodes and to create alerts and notifications. Kubernetes creates pods and deploy- ments; they are not provided by instance groups.
+C. Kubernetes creates instance groups as part of the process of creating a cluster, which makes option C the correct answer. Stackdriver, not instance groups, is used to monitor the health of nodes and to create alerts and notifications. Kubernetes creates pods and deployments; they are not provided by instance groups.
 
 
 
@@ -61,7 +61,7 @@ D. Instances with at least four vCPUs.
 
 Answers:
 
-A. A Kubernetes cluster has a single cluster master and one or more nodes to execute work- loads, so option A is the correct answer. Stackdriver is not part of the Kubernetes cluster;\
+A. A Kubernetes cluster has a single cluster master and one or more nodes to execute workloads, so option A is the correct answer. Stackdriver is not part of the Kubernetes cluster;\
 it is a separate GCP service. Kubernetes does not require instances with at least four vCPUs; in fact, the default node configuration uses one vCPU.
 
 
@@ -122,7 +122,7 @@ C. ReplicaSets are controllers that are responsible for maintaining the correct 
 
 
 
-#### 6. You are deploying a high availability application in Kubernetes Engine. You want to main- tain availability even if there is a major network outage in a data center. What feature of Kubernetes Engine would you employ?
+#### 6. You are deploying a high availability application in Kubernetes Engine. You want to maintain availability even if there is a major network outage in a data center. What feature of Kubernetes Engine would you employ?
 
 A. Multiple instance groups&#x20;
 
@@ -136,7 +136,7 @@ D. Load balancing
 
 Answers:
 
-B. Multizone/multiregion clusters are available in Kubernetes Engine and are used to pro- vide resiliency to an application, so option B is correct. Option A refers to instance groups that are a feature of Compute Engine, not directly of Kubernetes Engine. Option C is incor- rect; regional deployments is a fictitious term. Load balancing distributes load and is part of Kubernetes by default. If load is not distributed across zones or regions, it does not help to add resiliency across data centers.
+B. Multizone/multiregion clusters are available in Kubernetes Engine and are used to provide resiliency to an application, so option B is correct. Option A refers to instance groups that are a feature of Compute Engine, not directly of Kubernetes Engine. Option C is incorrect; regional deployments is a fictitious term. Load balancing distributes load and is part of Kubernetes by default. If load is not distributed across zones or regions, it does not help to add resiliency across data centers.
 
 
 
@@ -280,7 +280,7 @@ D. ReplicaSet
 
 Answers:
 
-B. Workspaces are logical structures for storing information about resources in a project that are being monitored, so option B is correct. Stackdriver works with logs, but a log is not required before starting to use Stackdriver. Pods and ReplicaSets are part of Kuber- netes, not Stackdriver.
+B. Workspaces are logical structures for storing information about resources in a project that are being monitored, so option B is correct. Stackdriver works with logs, but a log is not required before starting to use Stackdriver. Pods and ReplicaSets are part of Kubernetes, not Stackdriver.
 
 
 
@@ -316,7 +316,7 @@ D. Conditions, documentation, and time to live
 
 Answers:
 
-B. When creating an alert policy, you can specify conditions, notifications, and documenta- tion, making option B the correct answer. Options A and D are incorrect because there is no Time to Live attribute on policies. Option C is wrong because it does not include notifi- cations and documentation.
+B. When creating an alert policy, you can specify conditions, notifications, and documentation, making option B the correct answer. Options A and D are incorrect because there is no Time to Live attribute on policies. Option C is wrong because it does not include notifications and documentation.
 
 
 
