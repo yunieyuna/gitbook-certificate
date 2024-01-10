@@ -51,6 +51,7 @@
     * [Sec6. Getting started with Instance Groups in Google Cloud](gcp-associate-cloud-engineer/udemy-gcp-associate-cloud-engineer-google-cloud-certification/sec6.-getting-started-with-instance-groups-in-google-cloud.md)
     * [Sec7. Load Balancing in Google Cloud Platform](gcp-associate-cloud-engineer/udemy-gcp-associate-cloud-engineer-google-cloud-certification/sec7.-load-balancing-in-google-cloud-platform.md)
   * [\[Udemy\] Google Cloud Associate Cloud Engineer Practice Exam](gcp-associate-cloud-engineer/udemy-google-cloud-associate-cloud-engineer-practice-exam/README.md)
+    * [Test Trials](gcp-associate-cloud-engineer/udemy-google-cloud-associate-cloud-engineer-practice-exam/test-trials.md)
     * [Exam 1](gcp-associate-cloud-engineer/udemy-google-cloud-associate-cloud-engineer-practice-exam/exam-1.md)
     * [Exam 2](gcp-associate-cloud-engineer/udemy-google-cloud-associate-cloud-engineer-practice-exam/exam-2.md)
     * [Exam 3](gcp-associate-cloud-engineer/udemy-google-cloud-associate-cloud-engineer-practice-exam/exam-3.md)
