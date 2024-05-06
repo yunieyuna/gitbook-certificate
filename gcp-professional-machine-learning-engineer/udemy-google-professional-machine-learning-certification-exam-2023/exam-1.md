@@ -96,7 +96,7 @@ Recall = TruePositives / (TruePositives + FalseNegatives)
       * Project: 10,000 topics
       * Topic: 10,000 attached subscriptions
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Q12
 

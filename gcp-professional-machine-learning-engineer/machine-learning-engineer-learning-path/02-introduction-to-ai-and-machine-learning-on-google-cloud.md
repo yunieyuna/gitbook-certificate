@@ -4,7 +4,7 @@
 
 #### Cloud storage has 4 primary storage classes
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 1\. Standard storage
 
@@ -42,7 +42,7 @@ structured data comes in two types:
 * Which are used when entire datasets need to be read.
 * Often require complex queries, for example, aggregations.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

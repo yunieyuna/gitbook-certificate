@@ -64,7 +64,7 @@
     * [Exam 1](gcp-professional-machine-learning-engineer/udemy-google-professional-machine-learning-certification-exam-2023/exam-1.md)
 * [宅地建物取引士資格試験(宅建士)](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/README.md)
   * [宅建業法](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/zhai-jian-ye-fa/README.md)
-    * [勉強](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/zhai-jian-ye-fa/mian-qiang.md)
+    * [宅建講座【ゆーき大学】- Youtube](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/zhai-jian-ye-fa/yki-youtube.md)
     * [練習](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/zhai-jian-ye-fa/lian-xi.md)
   * [法令上の制限](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/no.md)
   * [税その他](zhai-di-jian-wu-qu-yin-shi-zi-ge-shi-yan-zhai-jian-shi/sono.md)
