@@ -1,5 +1,11 @@
 # 宅地建物取引士資格試験(宅建士)
 
+## スケジュール
+
+<table data-view="cards"><thead><tr><th>Schedule</th><th>Contents</th><th># of Study Time / week</th></tr></thead><tbody><tr><td>2024.05 ~ 2024.06</td><td>过1遍课本和试题</td><td>4 hours+</td></tr><tr><td>2024.07 ~ 2024.09</td><td>过2遍课本和试题</td><td>8 hours+</td></tr><tr><td>2024.10</td><td>主要看错题集</td><td>12 hours+</td></tr></tbody></table>
+
+
+
 ## 紹介
 
 {% embed url="https://studying.jp/takken/about-more/takken-schedule.html" %}
